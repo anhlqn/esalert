@@ -2,7 +2,7 @@
 A simple Elasticsearch alert tool written in Powershell. Inspired by ElastAlert at https://github.com/Yelp/elastalert
 
 ## Why?
-My idea is to use Powershell script to query data on Elasticsearch and act on the responses. It should be simple enough so that anyone with basic Powershell Elasticsearch knowledge can create a rule within 1 to 5 minutes.
+My idea is to use Powershell script to query data on Elasticsearch and act on the responses. It should be simple enough so that anyone with basic Powershell and Elasticsearch knowledge can create a rule within 1 to 5 minutes.
 
 ## What?
 ### Process
